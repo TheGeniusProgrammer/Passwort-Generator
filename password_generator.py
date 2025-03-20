@@ -7,5 +7,5 @@ def generate_password(length=12):
     return password
 
 # User-Enter
-length = int(input("Passwortlänge: "))
-print("Generiertes Passwort:", generate_password(length))
+length = int(input("Password length: "))
+print("Generated Password:", generate_password(length))
