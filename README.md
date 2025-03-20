@@ -15,7 +15,7 @@ You can specify the length of the password, and it will include letters, numbers
 ---
 
 ## 🚀 How to Use  
-1. Make sure you have **Python 3.x** installed.  
+1. Make sure you have **Python** installed.  
 2. Download the `password_generator.py` file or clone this repository using:  
    ```sh
    git clone https://github.com/YOUR-USERNAME/password-generator.git
